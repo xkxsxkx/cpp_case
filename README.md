@@ -7,3 +7,4 @@ some cpp code exercises
 |文件名|内容描述|备注|
 |----|----|----|
 | DynamicCreate.cpp|c++反射||
+|ioc_demo.cpp / ioc_demo1.cpp|c++控制反转|两文件方式不同|
